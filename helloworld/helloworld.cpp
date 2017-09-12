@@ -9,6 +9,7 @@ int main()
 {
 	cout << "Hello C++";
 	cout << "push";
+	cout << "push2";
     return 0;
 }
 
